@@ -1,0 +1,321 @@
+﻿EmployeeID,EmployeeName,Gender,Age,Department,JobLevel,Education,MaritalStatus,Location,WorkMode,EmploymentType,HireDate,IsActive,TerminationDate,TerminationType,BaseSalaryLPA,LastRating
+1001,Kavya Reddy,Male,25,Sales,L2,Diploma,Married,Chennai,Hybrid,Full-Time,08-02-2021,TRUE,,,9.69,1
+1002,Ritika Kapoor,Prefer not to say,33,HR,L4,Bachelors,Single,Bengaluru,Hybrid,Full-Time,09-08-2024,TRUE,,,16.4,3
+1003,Advait Patel,Female,32,Marketing,L4,Diploma,Married,Bengaluru,On-site,Contractor,21-06-2025,TRUE,,,16.62,1
+1004,Sahil Saxena,Male,23,IT,L2,Masters,Married,Ahmedabad,On-site,Full-Time,05-05-2023,TRUE,,,6.56,3
+1005,Ishaan Singh,Female,33,Operations,Manager,Diploma,Single,Bengaluru,On-site,Full-Time,04-12-2019,TRUE,,,36.32,5
+1006,Vivaan Sharma,Female,37,Marketing,L2,Bachelors,Single,Bengaluru,Hybrid,Full-Time,04-02-2023,FALSE,15-08-2024,Involuntary,8.65,4
+1007,Riya Das,Male,26,IT,Manager,Masters,Single,Bengaluru,On-site,Full-Time,16-11-2024,TRUE,,,29.77,3
+1008,Kiaan Sharma,Male,30,IT,Director,Masters,Married,Mumbai,On-site,Full-Time,26-07-2019,TRUE,,,40.76,2
+1009,Anika Pandey,Male,23,IT,L3,MBA,Single,Delhi,Hybrid,Full-Time,29-03-2022,TRUE,,,13.56,4
+1010,Dhruv Das,Female,38,Product,L2,Diploma,Single,Mumbai,Hybrid,Contractor,22-07-2023,TRUE,,,9.48,3
+1011,Meera Kapoor,Male,29,Sales,L5,Masters,Single,Hyderabad,Hybrid,Full-Time,11-06-2022,TRUE,,,34.97,3
+1012,Vikram Gupta,Female,23,Operations,L4,Bachelors,Divorced,Remote,On-site,Full-Time,25-06-2023,TRUE,,,12.44,3
+1013,Myra Kapoor,Female,30,Finance,L2,Bachelors,Divorced,Mumbai,Hybrid,Part-Time,03-05-2019,TRUE,,,9.02,3
+1014,Riya Mehta,Prefer not to say,33,Marketing,L3,Masters,Married,Bengaluru,Hybrid,Full-Time,30-11-2023,TRUE,,,13.42,1
+1015,Ishaan Nair,Female,35,Marketing,L2,Masters,Single,Gurugram,On-site,Full-Time,23-05-2024,TRUE,,,9.39,3
+1016,Atharv Chopra,Female,24,Legal,L5,Bachelors,Single,Mumbai,On-site,Contractor,29-03-2022,TRUE,,,24.1,3
+1017,Aisha Verma,Female,35,Product,L1,Bachelors,Married,Chennai,On-site,Full-Time,09-04-2019,TRUE,,,3.85,3
+1018,Anay Reddy,Female,39,Operations,L3,PhD,Single,Bengaluru,Hybrid,Full-Time,08-03-2023,TRUE,,,14.79,4
+1019,Ishaan Bansal,Female,30,Engineering,L2,Bachelors,Divorced,Delhi,Remote,Full-Time,14-08-2019,TRUE,,,8.23,4
+1020,Kavya Kaur,Female,27,Customer Support,L2,Bachelors,Married,Kolkata,On-site,Intern,14-01-2025,TRUE,,,9.57,3
+1021,Nikhil Khan,Male,31,Marketing,Director,MBA,Married,Mumbai,On-site,Contractor,08-05-2019,TRUE,,,51.84,4
+1022,Vivaan Tripathi,Non-binary,36,HR,L1,Bachelors,Married,Delhi,On-site,Full-Time,23-02-2021,TRUE,,,3.41,4
+1023,Prisha Iyer,Female,27,HR,L2,Bachelors,Single,Bengaluru,Hybrid,Full-Time,04-02-2020,FALSE,23-06-2025,Voluntary,6.88,2
+1024,Kabir Nair,Female,21,Engineering,L1,Bachelors,Single,Mumbai,Hybrid,Full-Time,12-09-2023,FALSE,03-01-2024,Voluntary,3.98,4
+1025,Ira Jain,Male,31,Customer Support,Manager,Bachelors,Single,Pune,On-site,Full-Time,05-01-2020,TRUE,,,30.78,4
+1026,Reyansh Chopra,Male,35,Customer Support,L3,Diploma,Single,Remote,Remote,Full-Time,09-10-2021,FALSE,02-09-2023,Voluntary,10,3
+1027,Riya Tripathi,Female,24,Engineering,Manager,Masters,Single,Chennai,Hybrid,Full-Time,07-08-2023,TRUE,,,26.52,3
+1028,Neha Tripathi,Male,37,Marketing,L1,Bachelors,Divorced,Bengaluru,On-site,Part-Time,16-07-2025,TRUE,,,3.52,3
+1029,Kiaan Jain,Male,41,Finance,L1,Bachelors,Married,Hyderabad,Remote,Full-Time,30-05-2020,TRUE,,,5.83,5
+1030,Anay Saxena,Female,39,HR,L4,Masters,Married,Chennai,On-site,Part-Time,25-06-2023,TRUE,,,21.85,4
+1031,Reyansh Menon,Male,26,Operations,L3,Diploma,Married,Delhi,Hybrid,Full-Time,14-06-2023,TRUE,,,10.09,3
+1032,Anvi Jain,Female,27,IT,L3,MBA,Single,Delhi,Remote,Full-Time,07-03-2024,TRUE,,,14.45,5
+1033,Advait Tripathi,Male,39,Customer Support,L3,MBA,Married,Delhi,Hybrid,Part-Time,22-05-2021,TRUE,,,12.27,3
+1034,Ananya Das,Male,28,Sales,L2,Diploma,Single,Remote,Remote,Full-Time,25-12-2023,TRUE,,,9.75,3
+1035,Tanvi Nair,Female,21,Engineering,L3,Masters,Married,Kolkata,Hybrid,Full-Time,01-12-2021,TRUE,,,15.97,2
+1036,Diya Khan,Female,29,Legal,L4,Masters,Divorced,Pune,Remote,Contractor,23-03-2023,TRUE,,,14.67,3
+1037,Rohan Mehta,Female,32,HR,L2,Bachelors,Married,Gurugram,On-site,Contractor,17-08-2022,TRUE,,,6.88,2
+1038,Aman Roy,Female,24,Operations,L4,Bachelors,Married,Bengaluru,Hybrid,Full-Time,28-05-2022,TRUE,,,20.89,4
+1039,Aman Menon,Female,37,Finance,L2,Bachelors,Single,Bengaluru,Hybrid,Full-Time,06-10-2024,FALSE,13-05-2025,Voluntary,6.61,1
+1040,Aisha Patel,Non-binary,38,HR,Manager,Bachelors,Married,Bengaluru,On-site,Full-Time,12-03-2022,TRUE,,,37.18,3
+1041,Ritika Bansal,Non-binary,45,IT,L2,Bachelors,Single,Delhi,Hybrid,Full-Time,10-02-2019,TRUE,,,7.27,1
+1042,Aisha Saxena,Male,27,Legal,L3,Bachelors,Single,Bengaluru,On-site,Contractor,13-09-2019,TRUE,,,15.35,2
+1043,Pari Singh,Female,24,Operations,L3,Masters,Single,Remote,On-site,Full-Time,25-05-2022,TRUE,,,14.74,4
+1044,Aarohi Das,Female,33,Finance,L3,Bachelors,Single,Gurugram,Remote,Intern,08-03-2024,TRUE,,,12.68,4
+1045,Eshan Roy,Female,23,Marketing,L2,Bachelors,Single,Mumbai,Remote,Part-Time,12-09-2024,TRUE,,,5.57,4
+1046,Vikram Verma,Female,28,Marketing,L5,Bachelors,Married,Chennai,Hybrid,Contractor,23-01-2024,TRUE,,,26.64,3
+1047,Sara Jain,Female,38,Finance,Manager,Bachelors,Divorced,Chennai,Hybrid,Full-Time,22-03-2020,TRUE,,,35.5,3
+1048,Sahil Mukherjee,Non-binary,35,Legal,L2,Bachelors,Married,Kolkata,Hybrid,Part-Time,19-02-2024,TRUE,,,9.9,3
+1049,Diya Nair,Male,24,Operations,L1,Bachelors,Single,Bengaluru,On-site,Full-Time,26-12-2019,TRUE,,,4.23,4
+1050,Kiaan Menon,Female,36,IT,Director,Bachelors,Single,Ahmedabad,On-site,Full-Time,29-11-2022,TRUE,,,56.03,3
+1051,Aisha Bansal,Female,29,Sales,L3,Diploma,Single,Pune,Hybrid,Full-Time,17-02-2019,FALSE,02-03-2022,Involuntary,8.68,3
+1052,Sahil Saxena,Prefer not to say,27,Marketing,L3,MBA,Single,Kolkata,Hybrid,Full-Time,09-06-2020,FALSE,07-01-2023,Involuntary,15.16,3
+1053,Sahil Bansal,Female,31,Engineering,L3,Bachelors,Single,Delhi,On-site,Full-Time,08-06-2022,FALSE,10-12-2022,Voluntary,15.12,3
+1054,Aman Mehta,Female,26,Marketing,L5,Bachelors,Single,Hyderabad,Hybrid,Full-Time,22-03-2023,TRUE,,,28.94,3
+1055,Prisha Mukherjee,Female,34,Finance,L1,Bachelors,Single,Hyderabad,Remote,Full-Time,25-07-2025,TRUE,,,5.69,2
+1056,Ira Sharma,Female,30,Engineering,L3,PhD,Single,Delhi,Remote,Contractor,07-10-2020,TRUE,,,11.93,4
+1057,Eshan Gupta,Female,33,IT,L3,Masters,Single,Remote,Hybrid,Full-Time,15-06-2020,TRUE,,,8.92,3
+1058,Kabir Jain,Male,42,Engineering,L4,Bachelors,Single,Hyderabad,On-site,Full-Time,10-01-2019,TRUE,,,18.59,3
+1059,Kavya Agarwal,Female,46,Legal,L5,Diploma,Married,Kolkata,Hybrid,Contractor,06-03-2022,TRUE,,,24.83,4
+1060,Anika Patel,Female,28,Customer Support,L1,Masters,Married,Kolkata,Hybrid,Part-Time,14-08-2024,TRUE,,,4.9,4
+1061,Vikram Gupta,Male,42,IT,L3,Masters,Married,Chennai,Hybrid,Full-Time,19-09-2021,TRUE,,,15.2,3
+1062,Samaira Sharma,Female,36,Legal,Manager,Masters,Single,Gurugram,Hybrid,Full-Time,11-01-2023,TRUE,,,42.45,3
+1063,Tanvi Roy,Female,36,Sales,L5,Bachelors,Single,Pune,Hybrid,Part-Time,15-02-2022,TRUE,,,19.99,4
+1064,Aadhya Chopra,Male,38,Engineering,L3,Masters,Single,Mumbai,Hybrid,Full-Time,05-04-2019,TRUE,,,12.52,4
+1065,Krish Verma,Female,24,HR,L3,Bachelors,Married,Gurugram,On-site,Full-Time,28-06-2023,TRUE,,,15.46,3
+1066,Nikhil Iyer,Female,27,Marketing,Manager,Masters,Single,Chennai,Hybrid,Full-Time,01-12-2022,FALSE,03-10-2024,Involuntary,41.62,2
+1067,Priya Roy,Non-binary,32,Marketing,L4,Bachelors,Single,Delhi,Remote,Full-Time,25-07-2021,FALSE,24-05-2022,Voluntary,23.04,3
+1068,Vikram Bansal,Male,38,Finance,L5,Bachelors,Single,Hyderabad,On-site,Full-Time,13-06-2024,TRUE,,,18.61,3
+1069,Aanya Tripathi,Female,26,Product,L2,Bachelors,Divorced,Hyderabad,Hybrid,Contractor,22-12-2021,TRUE,,,7.51,3
+1070,Reva Gupta,Male,27,Engineering,L5,Bachelors,Married,Mumbai,On-site,Full-Time,13-10-2019,TRUE,,,28.57,3
+1071,Samaira Kaur,Female,46,Operations,L3,Bachelors,Married,Bengaluru,On-site,Full-Time,10-03-2021,TRUE,,,15.18,3
+1072,Riya Bansal,Female,43,HR,Director,Masters,Married,Delhi,Hybrid,Full-Time,29-06-2024,TRUE,,,40.59,2
+1073,Rohan Bose,Female,35,Operations,L2,Diploma,Single,Pune,Remote,Part-Time,27-03-2020,TRUE,,,5.71,3
+1074,Sanya Jain,Male,25,Customer Support,L1,Masters,Married,Ahmedabad,On-site,Contractor,01-08-2022,TRUE,,,5.68,4
+1075,Naira Agarwal,Male,27,Product,L4,Bachelors,Married,Delhi,Hybrid,Full-Time,05-03-2024,TRUE,,,21.16,2
+1076,Aadhya Das,Female,23,HR,L3,MBA,Married,Delhi,On-site,Full-Time,25-08-2019,TRUE,,,9.74,3
+1077,Diya Mehta,Male,38,Sales,L5,Bachelors,Married,Hyderabad,On-site,Full-Time,02-11-2022,TRUE,,,19.92,2
+1078,Meera Bansal,Male,38,HR,L2,Masters,Single,Chennai,Hybrid,Full-Time,02-12-2020,TRUE,,,5.23,2
+1079,Meera Das,Female,33,Sales,L2,Bachelors,Single,Delhi,Hybrid,Full-Time,04-06-2022,TRUE,,,6.98,5
+1080,Diya Pandey,Male,27,Sales,L3,Bachelors,Single,Bengaluru,Remote,Part-Time,31-12-2019,FALSE,16-09-2020,Involuntary,8.85,2
+1081,Advait Iyer,Female,43,Sales,L3,Bachelors,Married,Kolkata,Hybrid,Full-Time,11-05-2025,TRUE,,,14.46,5
+1082,Myra Iyer,Female,31,IT,L4,Bachelors,Single,Remote,Hybrid,Full-Time,17-10-2023,TRUE,,,19.65,5
+1083,Krish Kapoor,Non-binary,40,Product,L1,Masters,Single,Chennai,Remote,Full-Time,07-09-2019,TRUE,,,3.36,4
+1084,Riya Bansal,Male,38,Finance,L1,Bachelors,Married,Kolkata,On-site,Full-Time,06-01-2023,TRUE,,,3.11,3
+1085,Priya Singh,Male,25,Legal,L5,Diploma,Single,Hyderabad,Hybrid,Full-Time,16-01-2019,TRUE,,,33.78,3
+1086,Zara Das,Female,39,Product,Director,Diploma,Single,Delhi,Remote,Full-Time,24-03-2021,TRUE,,,63.02,3
+1087,Dhruv Khan,Female,37,Marketing,Director,Masters,Single,Delhi,Hybrid,Full-Time,12-08-2024,TRUE,,,48.91,4
+1088,Kabir Tripathi,Female,33,Operations,L4,Bachelors,Married,Bengaluru,On-site,Full-Time,21-08-2021,TRUE,,,23.4,4
+1089,Atharv Mukherjee,Male,37,Operations,Manager,Bachelors,Married,Bengaluru,Remote,Full-Time,26-08-2022,TRUE,,,34.77,3
+1090,Ira Saxena,Male,30,Sales,L2,Bachelors,Married,Delhi,On-site,Intern,25-03-2023,TRUE,,,9.97,2
+1091,Sahil Jain,Male,36,Marketing,L2,Masters,Single,Mumbai,Hybrid,Full-Time,17-04-2024,TRUE,,,7.29,3
+1092,Ananya Nair,Male,38,Customer Support,L3,Diploma,Married,Bengaluru,On-site,Contractor,19-11-2022,FALSE,27-09-2025,Voluntary,8.04,4
+1093,Kabir Das,Male,35,HR,L1,MBA,Widowed,Bengaluru,Remote,Full-Time,02-12-2024,TRUE,,,4.04,4
+1094,Anika Bansal,Female,32,Product,L2,MBA,Married,Pune,Remote,Contractor,01-09-2023,TRUE,,,6.19,5
+1095,Aanya Mukherjee,Male,26,Finance,Manager,MBA,Single,Gurugram,On-site,Part-Time,24-04-2023,TRUE,,,41.18,4
+1096,Anvi Menon,Female,35,HR,L1,Bachelors,Married,Remote,Hybrid,Full-Time,30-11-2020,FALSE,28-01-2022,Involuntary,3.32,4
+1097,Diya Menon,Female,31,IT,L4,MBA,Single,Gurugram,Hybrid,Full-Time,31-12-2020,FALSE,06-08-2022,Voluntary,18.99,3
+1098,Kabir Verma,Female,33,IT,L1,MBA,Divorced,Remote,Hybrid,Full-Time,25-08-2025,TRUE,,,3.2,4
+1099,Aarav Iyer,Male,28,HR,L1,Bachelors,Single,Remote,On-site,Contractor,05-06-2021,TRUE,,,3.9,4
+1100,Reyansh Mukherjee,Female,36,Product,L2,Bachelors,Married,Remote,On-site,Full-Time,08-06-2025,TRUE,,,8.19,3
+1101,Zara Khan,Male,31,Operations,Manager,Bachelors,Single,Bengaluru,Hybrid,Full-Time,18-07-2022,TRUE,,,35.41,2
+1102,Ananya Gupta,Male,33,Operations,L1,Bachelors,Single,Hyderabad,On-site,Part-Time,17-05-2024,FALSE,27-05-2025,Involuntary,3.56,3
+1103,Aarav Nair,Male,41,Engineering,L2,Bachelors,Single,Bengaluru,Hybrid,Full-Time,30-08-2025,TRUE,,,6.55,3
+1104,Ira Bose,Male,41,Operations,L1,Bachelors,Single,Chennai,On-site,Full-Time,05-08-2024,TRUE,,,3.12,3
+1105,Neha Saxena,Male,31,IT,L4,Masters,Single,Bengaluru,On-site,Full-Time,04-11-2023,TRUE,,,12.4,2
+1106,Sanya Pandey,Male,25,Product,L2,Bachelors,Married,Ahmedabad,On-site,Full-Time,21-08-2022,TRUE,,,5.62,4
+1107,Sara Khan,Female,40,Engineering,L2,MBA,Divorced,Chennai,Hybrid,Full-Time,27-08-2025,FALSE,29-10-2025,Voluntary,7.99,4
+1108,Riya Verma,Female,41,Legal,L1,Bachelors,Single,Pune,Hybrid,Full-Time,10-04-2023,TRUE,,,3.66,5
+1109,Ritika Bansal,Male,35,Sales,L4,Bachelors,Single,Pune,On-site,Intern,18-12-2021,TRUE,,,14.39,4
+1110,Ritika Mehta,Male,28,Sales,L1,Bachelors,Single,Gurugram,Hybrid,Full-Time,08-02-2020,TRUE,,,5.21,4
+1111,Ananya Singh,Female,37,Product,L4,Diploma,Single,Chennai,Hybrid,Part-Time,22-10-2019,TRUE,,,19.11,4
+1112,Eshan Agarwal,Male,49,Finance,L4,Masters,Married,Bengaluru,Hybrid,Contractor,11-06-2023,TRUE,,,16.47,3
+1113,Ananya Agarwal,Male,31,Marketing,L1,Bachelors,Married,Chennai,Hybrid,Full-Time,02-08-2024,TRUE,,,5.57,1
+1114,Arjun Iyer,Female,27,Legal,L4,Bachelors,Single,Mumbai,Remote,Full-Time,16-06-2024,TRUE,,,20.03,2
+1115,Diya Tripathi,Male,35,HR,L2,Bachelors,Single,Chennai,On-site,Full-Time,10-06-2025,TRUE,,,9.03,3
+1116,Aarya Reddy,Female,32,Legal,L2,Diploma,Single,Bengaluru,Hybrid,Contractor,06-12-2024,TRUE,,,5.9,2
+1117,Krish Singh,Male,42,Legal,L3,Bachelors,Married,Bengaluru,On-site,Intern,31-05-2022,TRUE,,,12.17,3
+1118,Vivaan Kaur,Female,36,Marketing,L2,Bachelors,Single,Gurugram,Hybrid,Full-Time,26-09-2022,FALSE,23-09-2024,Voluntary,9.34,2
+1119,Dhruv Tripathi,Female,31,Legal,L4,Masters,Married,Bengaluru,Remote,Full-Time,03-08-2022,TRUE,,,16.73,4
+1120,Nikhil Agarwal,Male,44,Customer Support,L4,PhD,Single,Remote,Hybrid,Contractor,03-05-2020,FALSE,21-12-2024,Voluntary,15.92,4
+1121,Aisha Khan,Female,36,Customer Support,L3,Masters,Single,Chennai,On-site,Full-Time,11-12-2020,TRUE,,,11.04,3
+1122,Krish Kapoor,Female,35,Operations,L4,Bachelors,Single,Chennai,On-site,Full-Time,19-08-2021,TRUE,,,16.56,4
+1123,Aanya Tripathi,Female,29,Engineering,L3,Bachelors,Single,Chennai,Hybrid,Full-Time,01-08-2021,TRUE,,,13.98,4
+1124,Ira Mehta,Female,31,Marketing,L5,Bachelors,Married,Bengaluru,Remote,Full-Time,20-02-2019,FALSE,17-06-2021,Voluntary,21.5,2
+1125,Aarav Menon,Female,44,Legal,Manager,Bachelors,Married,Bengaluru,Hybrid,Full-Time,07-11-2024,FALSE,25-09-2025,Voluntary,27.81,3
+1126,Nikhil Reddy,Female,33,Marketing,L1,Bachelors,Single,Remote,Hybrid,Part-Time,09-11-2022,TRUE,,,4.58,2
+1127,Anay Khan,Male,33,IT,L4,Masters,Married,Bengaluru,On-site,Contractor,08-01-2025,TRUE,,,14.84,4
+1128,Aisha Patel,Male,45,Customer Support,L5,Bachelors,Married,Bengaluru,Hybrid,Full-Time,08-04-2025,FALSE,25-07-2025,Involuntary,33.53,3
+1129,Diya Das,Male,32,Customer Support,L4,Bachelors,Single,Delhi,Hybrid,Full-Time,08-02-2021,TRUE,,,19.16,4
+1130,Prisha Gupta,Male,31,Product,L3,Masters,Single,Delhi,Remote,Full-Time,30-01-2022,TRUE,,,10.19,2
+1131,Anay Pandey,Male,25,Engineering,L3,Diploma,Single,Bengaluru,Remote,Full-Time,05-01-2025,TRUE,,,12.74,4
+1132,Harsh Jain,Male,27,IT,L3,Bachelors,Single,Delhi,On-site,Intern,03-02-2023,TRUE,,,8.48,3
+1133,Aarav Tripathi,Non-binary,35,IT,L2,Bachelors,Single,Hyderabad,Hybrid,Full-Time,15-04-2024,TRUE,,,7.37,3
+1134,Shaurya Tripathi,Male,26,Marketing,Director,Diploma,Married,Kolkata,On-site,Full-Time,12-01-2022,TRUE,,,42.67,4
+1135,Aanya Kapoor,Male,35,Marketing,L4,Diploma,Single,Mumbai,On-site,Full-Time,03-07-2024,TRUE,,,18.12,4
+1136,Kabir Saxena,Male,35,IT,Manager,MBA,Single,Kolkata,Hybrid,Full-Time,01-09-2019,TRUE,,,43.54,2
+1137,Sara Kapoor,Female,37,Engineering,Manager,Masters,Married,Mumbai,On-site,Full-Time,10-05-2019,TRUE,,,44.1,3
+1138,Kiaan Khan,Non-binary,30,Customer Support,L4,Bachelors,Single,Chennai,On-site,Contractor,26-08-2019,FALSE,10-04-2022,Involuntary,21.9,4
+1139,Riya Tripathi,Male,37,Engineering,L2,Diploma,Married,Bengaluru,Hybrid,Contractor,09-08-2023,TRUE,,,9.26,1
+1140,Eshan Roy,Male,20,Engineering,L4,Bachelors,Single,Chennai,On-site,Full-Time,26-08-2025,TRUE,,,12.69,4
+1141,Ananya Iyer,Prefer not to say,28,Operations,L2,Bachelors,Single,Pune,On-site,Full-Time,27-06-2023,TRUE,,,6.16,3
+1142,Anvi Verma,Male,29,Sales,L4,Masters,Married,Kolkata,Hybrid,Full-Time,11-01-2025,TRUE,,,21.93,4
+1143,Myra Patel,Female,31,Engineering,L3,Diploma,Single,Kolkata,On-site,Full-Time,13-10-2024,TRUE,,,14.67,3
+1144,Reyansh Saxena,Male,30,Product,L1,Diploma,Single,Mumbai,Hybrid,Full-Time,27-11-2023,FALSE,18-06-2025,Voluntary,3.97,4
+1145,Reva Pandey,Female,23,Operations,L3,Masters,Married,Remote,Hybrid,Full-Time,16-12-2024,TRUE,,,8.61,3
+1146,Reva Sharma,Non-binary,22,Marketing,L2,Masters,Married,Hyderabad,On-site,Full-Time,20-03-2019,TRUE,,,7.25,4
+1147,Diya Pandey,Male,31,Finance,L1,Diploma,Married,Pune,Remote,Full-Time,27-07-2023,TRUE,,,4.16,3
+1148,Anay Verma,Prefer not to say,33,Customer Support,Director,MBA,Married,Delhi,Hybrid,Full-Time,30-07-2024,TRUE,,,47.95,1
+1149,Meera Bansal,Male,35,Finance,L3,Bachelors,Single,Chennai,Hybrid,Full-Time,13-01-2020,TRUE,,,15.17,3
+1150,Pari Patel,Male,39,Sales,L3,Diploma,Single,Gurugram,Hybrid,Full-Time,03-06-2022,FALSE,22-09-2024,Voluntary,12.79,2
+1151,Shaurya Chopra,Male,20,Sales,L2,Bachelors,Married,Pune,Hybrid,Full-Time,09-12-2024,TRUE,,,9.31,4
+1152,Atharv Khan,Non-binary,37,HR,L2,Masters,Single,Ahmedabad,Hybrid,Part-Time,02-04-2025,FALSE,25-08-2025,Involuntary,6.35,3
+1153,Sanya Reddy,Female,33,Customer Support,L1,MBA,Single,Bengaluru,On-site,Full-Time,21-09-2023,TRUE,,,4.84,2
+1154,Reva Mukherjee,Male,27,Legal,L1,Bachelors,Married,Delhi,On-site,Full-Time,16-12-2024,TRUE,,,5.64,3
+1155,Ritika Patel,Male,34,HR,L2,Masters,Married,Chennai,Hybrid,Full-Time,17-11-2022,TRUE,,,5.03,4
+1156,Reyansh Gupta,Male,36,Operations,L5,Bachelors,Divorced,Delhi,On-site,Full-Time,11-10-2021,TRUE,,,27.04,2
+1157,Vihaan Gupta,Male,39,Customer Support,L2,Bachelors,Married,Bengaluru,On-site,Full-Time,01-12-2023,TRUE,,,6.94,3
+1158,Dhruv Tripathi,Female,35,HR,L3,Masters,Single,Mumbai,Hybrid,Full-Time,11-06-2019,TRUE,,,12.82,1
+1159,Anvi Gupta,Male,26,Marketing,L4,Masters,Divorced,Mumbai,Remote,Full-Time,09-01-2021,FALSE,30-06-2021,Voluntary,13.06,3
+1160,Navya Verma,Female,34,Product,L5,PhD,Married,Pune,Hybrid,Full-Time,11-11-2023,TRUE,,,30.35,5
+1161,Advait Khan,Female,33,Product,Director,Bachelors,Married,Chennai,Hybrid,Full-Time,15-03-2024,TRUE,,,41.68,4
+1162,Atharv Bose,Male,23,HR,L3,Bachelors,Single,Delhi,Remote,Full-Time,14-06-2023,FALSE,24-08-2025,Involuntary,15.28,4
+1163,Advait Sharma,Male,30,HR,Manager,Bachelors,Single,Mumbai,On-site,Full-Time,21-06-2021,TRUE,,,43.03,3
+1164,Aarya Mehta,Male,26,Engineering,L5,Bachelors,Married,Bengaluru,Hybrid,Full-Time,16-04-2025,TRUE,,,24.23,3
+1165,Diya Kapoor,Female,31,Customer Support,L5,Bachelors,Single,Gurugram,On-site,Part-Time,14-06-2021,TRUE,,,26.9,5
+1166,Aman Agarwal,Male,30,Operations,L5,Bachelors,Single,Mumbai,Remote,Intern,29-02-2020,FALSE,17-01-2022,Voluntary,22.52,4
+1167,Sahil Bansal,Female,25,Customer Support,Manager,Masters,Single,Pune,Hybrid,Full-Time,17-07-2019,TRUE,,,33,2
+1168,Vihaan Reddy,Female,32,Engineering,L2,Diploma,Married,Hyderabad,Hybrid,Full-Time,10-08-2022,TRUE,,,7.3,2
+1169,Arjun Singh,Female,28,Engineering,L2,Bachelors,Married,Hyderabad,On-site,Contractor,16-10-2023,TRUE,,,6.28,5
+1170,Vivaan Reddy,Female,27,Legal,L5,Bachelors,Single,Bengaluru,On-site,Full-Time,27-04-2023,TRUE,,,19.9,4
+1171,Pari Chopra,Female,39,Customer Support,Director,Bachelors,Single,Mumbai,Hybrid,Full-Time,23-06-2021,TRUE,,,67.45,3
+1172,Pari Kaur,Male,28,IT,L4,Masters,Single,Ahmedabad,Remote,Full-Time,09-02-2019,TRUE,,,19.18,1
+1173,Aadhya Nair,Male,36,Legal,L2,Masters,Divorced,Ahmedabad,On-site,Full-Time,26-02-2022,TRUE,,,9.92,4
+1174,Anika Kapoor,Female,35,Sales,L2,MBA,Single,Bengaluru,On-site,Full-Time,28-07-2025,FALSE,15-10-2025,Involuntary,5.4,4
+1175,Rohan Mukherjee,Male,33,Sales,L4,Masters,Single,Hyderabad,Remote,Full-Time,03-06-2022,TRUE,,,22.56,3
+1176,Samaira Bansal,Male,33,HR,L1,Diploma,Married,Delhi,Remote,Full-Time,04-12-2019,TRUE,,,4.95,3
+1177,Aarohi Mukherjee,Male,31,Marketing,Director,Masters,Single,Pune,On-site,Full-Time,05-06-2019,TRUE,,,45.01,4
+1178,Sanya Mehta,Prefer not to say,39,Legal,L1,Diploma,Single,Gurugram,On-site,Full-Time,16-06-2020,FALSE,22-02-2025,Voluntary,5.28,4
+1179,Tanvi Tripathi,Male,33,Marketing,Manager,Diploma,Single,Delhi,On-site,Full-Time,15-05-2020,TRUE,,,31.99,5
+1180,Priya Bose,Male,36,IT,L3,Diploma,Married,Gurugram,On-site,Contractor,24-03-2019,TRUE,,,14.61,4
+1181,Shaurya Tripathi,Female,32,Operations,L4,Masters,Single,Chennai,Hybrid,Full-Time,31-12-2022,TRUE,,,13.16,3
+1182,Tanvi Nair,Male,32,Engineering,L3,Bachelors,Married,Mumbai,On-site,Full-Time,28-09-2023,FALSE,23-04-2025,Voluntary,12.75,4
+1183,Reva Patel,Male,31,HR,L5,Diploma,Married,Remote,Remote,Full-Time,10-09-2022,TRUE,,,21.96,3
+1184,Dhruv Tripathi,Female,30,Operations,L3,Diploma,Married,Bengaluru,Remote,Full-Time,09-12-2019,TRUE,,,10.54,3
+1185,Sahil Saxena,Female,37,Finance,L3,Bachelors,Married,Chennai,Hybrid,Full-Time,18-01-2023,FALSE,28-04-2025,Voluntary,11.9,4
+1186,Harsh Singh,Non-binary,33,Engineering,L4,Masters,Single,Chennai,On-site,Full-Time,20-04-2024,FALSE,07-03-2025,Voluntary,13.68,3
+1187,Aarya Bansal,Non-binary,30,Sales,L2,Bachelors,Single,Mumbai,Hybrid,Full-Time,18-08-2022,FALSE,23-04-2024,Involuntary,6.42,3
+1188,Shaurya Bose,Male,20,HR,L2,Bachelors,Single,Mumbai,Remote,Full-Time,05-05-2021,TRUE,,,9.4,3
+1189,Pari Singh,Male,30,Legal,L3,MBA,Single,Delhi,Hybrid,Contractor,29-07-2024,TRUE,,,13.4,3
+1190,Aman Mehta,Female,32,Product,Manager,Masters,Married,Bengaluru,Hybrid,Part-Time,07-09-2023,TRUE,,,29.39,4
+1191,Naira Menon,Female,27,HR,L4,Bachelors,Married,Delhi,On-site,Full-Time,29-11-2023,TRUE,,,20.14,3
+1192,Eshan Roy,Female,33,Finance,L1,Masters,Married,Chennai,Remote,Full-Time,20-09-2020,TRUE,,,3.2,3
+1193,Sanya Iyer,Male,31,Engineering,L2,Bachelors,Married,Bengaluru,On-site,Full-Time,11-08-2019,TRUE,,,9.08,2
+1194,Eshan Tripathi,Male,30,Legal,Manager,Bachelors,Single,Chennai,Remote,Full-Time,04-03-2024,TRUE,,,33.45,3
+1195,Myra Iyer,Female,31,HR,L3,Bachelors,Single,Pune,On-site,Part-Time,16-12-2023,FALSE,02-05-2025,Voluntary,8.05,3
+1196,Sahil Bose,Female,29,HR,L4,Diploma,Married,Hyderabad,Remote,Full-Time,12-04-2021,FALSE,07-06-2025,Voluntary,12.33,3
+1197,Anika Patel,Non-binary,29,Sales,L1,Bachelors,Single,Bengaluru,Hybrid,Full-Time,25-06-2020,FALSE,23-12-2020,Voluntary,5.87,3
+1198,Vivaan Das,Female,31,Product,L4,Masters,Divorced,Mumbai,Remote,Full-Time,26-11-2024,TRUE,,,21.28,5
+1199,Harsh Iyer,Female,24,Product,L2,Masters,Single,Ahmedabad,Hybrid,Full-Time,07-12-2019,TRUE,,,6.35,5
+1200,Dhruv Jain,Female,32,Legal,L3,Bachelors,Single,Hyderabad,Hybrid,Full-Time,09-05-2025,TRUE,,,10.4,3
+1201,Anika Pandey,Female,42,Operations,L2,Masters,Married,Gurugram,On-site,Full-Time,04-03-2024,TRUE,,,7.67,4
+1202,Tara Nair,Male,30,HR,L5,Bachelors,Married,Mumbai,Remote,Contractor,01-06-2021,TRUE,,,35.66,3
+1203,Sara Jain,Female,21,Sales,L2,Bachelors,Married,Delhi,Hybrid,Full-Time,11-09-2023,TRUE,,,7.28,3
+1204,Vikram Reddy,Female,39,Operations,L4,Masters,Single,Remote,On-site,Full-Time,12-07-2025,TRUE,,,22.72,2
+1205,Advait Gupta,Female,35,IT,L4,MBA,Single,Hyderabad,Hybrid,Full-Time,08-01-2024,TRUE,,,19.73,4
+1206,Ira Verma,Male,20,IT,L5,Bachelors,Married,Remote,On-site,Intern,25-06-2020,FALSE,17-08-2023,Voluntary,29.39,2
+1207,Krish Reddy,Male,33,Product,L4,Diploma,Single,Pune,On-site,Full-Time,07-07-2024,FALSE,25-08-2025,Voluntary,19.59,3
+1208,Aanya Menon,Female,32,IT,L1,Diploma,Married,Pune,On-site,Part-Time,27-06-2025,FALSE,07-09-2025,Voluntary,3.63,4
+1209,Reva Kaur,Male,27,Customer Support,L2,Diploma,Married,Ahmedabad,Hybrid,Full-Time,06-04-2023,TRUE,,,7.08,4
+1210,Vikram Menon,Male,29,Legal,L4,Masters,Single,Ahmedabad,Hybrid,Full-Time,25-09-2025,TRUE,,,15.64,3
+1211,Priya Agarwal,Female,27,Operations,L2,MBA,Married,Pune,On-site,Full-Time,04-01-2023,FALSE,12-07-2025,Voluntary,6.38,4
+1212,Reva Menon,Male,41,Finance,L5,Diploma,Single,Kolkata,On-site,Full-Time,01-07-2023,TRUE,,,33.17,3
+1213,Ritika Roy,Female,31,Product,Manager,Bachelors,Divorced,Bengaluru,Hybrid,Full-Time,17-07-2021,TRUE,,,41.73,4
+1214,Aisha Das,Male,37,Engineering,L2,MBA,Single,Mumbai,On-site,Full-Time,03-03-2021,TRUE,,,5.53,4
+1215,Samaira Roy,Female,31,HR,Manager,Bachelors,Single,Hyderabad,On-site,Full-Time,13-06-2022,FALSE,13-06-2025,Voluntary,41.27,4
+1216,Anvi Menon,Male,29,Marketing,L4,Bachelors,Married,Mumbai,Hybrid,Full-Time,11-06-2019,TRUE,,,23.17,2
+1217,Rohan Bose,Female,29,HR,L4,Diploma,Single,Pune,Remote,Part-Time,03-12-2021,FALSE,12-08-2023,Voluntary,22.93,4
+1218,Anvi Mehta,Female,43,Customer Support,Manager,Diploma,Married,Delhi,Remote,Full-Time,24-06-2020,TRUE,,,44.23,3
+1219,Anay Iyer,Female,38,Finance,L5,Bachelors,Divorced,Bengaluru,On-site,Part-Time,25-08-2023,TRUE,,,25.84,3
+1220,Sara Das,Male,27,Operations,L5,Bachelors,Married,Chennai,Hybrid,Full-Time,30-08-2021,TRUE,,,33.25,1
+1221,Neha Patel,Female,36,HR,L3,Bachelors,Single,Bengaluru,On-site,Full-Time,25-09-2025,TRUE,,,8.48,4
+1222,Diya Mukherjee,Female,36,Operations,Director,Bachelors,Single,Pune,Hybrid,Full-Time,05-10-2019,TRUE,,,46.76,2
+1223,Myra Bansal,Male,39,Product,L4,Bachelors,Married,Chennai,On-site,Full-Time,05-05-2020,TRUE,,,23.37,3
+1224,Dhruv Verma,Female,35,HR,L3,Diploma,Married,Pune,Remote,Full-Time,05-08-2025,TRUE,,,9.07,5
+1225,Dhruv Nair,Female,32,Legal,L4,Diploma,Single,Ahmedabad,Hybrid,Full-Time,16-04-2024,TRUE,,,18.73,4
+1226,Neha Sharma,Female,22,Legal,Manager,Masters,Single,Remote,Hybrid,Full-Time,25-05-2023,FALSE,22-02-2025,Involuntary,44.89,4
+1227,Navya Roy,Prefer not to say,22,Sales,L3,Bachelors,Single,Chennai,Remote,Full-Time,01-06-2021,TRUE,,,10.84,4
+1228,Atharv Bose,Male,34,Operations,Manager,MBA,Single,Ahmedabad,Hybrid,Full-Time,18-06-2023,TRUE,,,38,2
+1229,Dhruv Bansal,Female,31,IT,L1,Diploma,Single,Gurugram,On-site,Full-Time,18-10-2023,TRUE,,,3.53,3
+1230,Kiaan Das,Female,41,Product,L2,Bachelors,Single,Gurugram,On-site,Contractor,01-01-2023,TRUE,,,9.6,5
+1231,Advait Kapoor,Male,28,Operations,L3,Masters,Married,Remote,Hybrid,Full-Time,01-10-2019,TRUE,,,11.09,3
+1232,Tara Sharma,Male,39,Operations,Manager,MBA,Married,Remote,On-site,Part-Time,30-11-2021,FALSE,29-05-2025,Voluntary,42.2,3
+1233,Myra Tripathi,Non-binary,22,Operations,L4,Bachelors,Married,Mumbai,On-site,Contractor,02-07-2025,TRUE,,,16.81,4
+1234,Priya Gupta,Female,43,Product,Manager,Bachelors,Single,Mumbai,On-site,Full-Time,01-05-2023,TRUE,,,25.49,2
+1235,Aanya Kaur,Non-binary,20,IT,L5,Masters,Single,Pune,Hybrid,Full-Time,17-10-2019,TRUE,,,27.7,3
+1236,Vihaan Nair,Male,33,Legal,L1,Bachelors,Married,Bengaluru,Hybrid,Full-Time,12-10-2022,TRUE,,,3.6,3
+1237,Nikhil Tripathi,Male,37,Sales,L1,Bachelors,Single,Pune,Hybrid,Full-Time,16-04-2024,TRUE,,,3.91,3
+1238,Ishaan Jain,Female,31,Operations,L5,Bachelors,Single,Gurugram,Remote,Intern,11-11-2021,TRUE,,,28.63,4
+1239,Aanya Menon,Male,42,Finance,L2,Masters,Married,Remote,On-site,Full-Time,03-05-2023,TRUE,,,8.57,4
+1240,Ananya Kapoor,Male,34,Operations,L3,Bachelors,Single,Gurugram,Remote,Full-Time,29-03-2024,TRUE,,,8.98,2
+1241,Tanvi Khan,Female,30,Product,L1,Bachelors,Single,Pune,On-site,Full-Time,14-07-2020,TRUE,,,4.69,5
+1242,Tanvi Mehta,Female,31,Operations,L3,Bachelors,Married,Pune,On-site,Full-Time,22-03-2024,FALSE,06-08-2024,Involuntary,15.76,3
+1243,Anvi Mukherjee,Male,37,Engineering,L4,MBA,Single,Hyderabad,Hybrid,Contractor,08-06-2020,TRUE,,,20.57,5
+1244,Ishaan Roy,Male,35,Sales,Manager,Masters,Married,Chennai,On-site,Part-Time,09-11-2019,TRUE,,,29.26,3
+1245,Ritika Bansal,Female,32,Sales,L2,Bachelors,Single,Chennai,On-site,Full-Time,05-12-2024,TRUE,,,6.78,2
+1246,Atharv Das,Male,28,Marketing,L4,Diploma,Single,Delhi,Remote,Part-Time,04-09-2025,TRUE,,,14.39,3
+1247,Aman Verma,Female,30,Sales,L2,Bachelors,Divorced,Bengaluru,Hybrid,Full-Time,01-06-2020,TRUE,,,9.89,3
+1248,Krish Khan,Male,28,Sales,L4,Bachelors,Single,Bengaluru,Hybrid,Full-Time,01-01-2024,TRUE,,,15.45,4
+1249,Harsh Patel,Non-binary,27,HR,L1,MBA,Single,Bengaluru,Hybrid,Full-Time,11-08-2025,TRUE,,,4.92,4
+1250,Aanya Roy,Male,33,Marketing,L4,Bachelors,Married,Chennai,Hybrid,Full-Time,24-04-2025,TRUE,,,23.36,2
+1251,Nikhil Khan,Male,30,Product,L4,Masters,Married,Delhi,On-site,Full-Time,27-03-2021,TRUE,,,23.28,3
+1252,Neha Kapoor,Female,33,Customer Support,L4,Masters,Single,Pune,Hybrid,Full-Time,20-11-2020,FALSE,29-03-2025,Voluntary,21.69,4
+1253,Reyansh Kaur,Female,20,Legal,Director,Bachelors,Single,Pune,Hybrid,Full-Time,17-09-2024,TRUE,,,66.32,4
+1254,Ritika Pandey,Male,35,Marketing,L2,Bachelors,Single,Mumbai,On-site,Full-Time,30-08-2022,TRUE,,,7.97,3
+1255,Reyansh Bose,Male,30,Marketing,L3,Bachelors,Married,Delhi,Hybrid,Full-Time,25-08-2020,TRUE,,,8.55,3
+1256,Meera Sharma,Non-binary,37,Engineering,L4,Bachelors,Single,Delhi,Remote,Full-Time,21-07-2020,TRUE,,,16.94,4
+1257,Nikhil Tripathi,Female,31,Operations,L3,Bachelors,Married,Delhi,Hybrid,Part-Time,13-05-2022,TRUE,,,12.02,2
+1258,Aarya Pandey,Female,39,HR,Manager,Diploma,Married,Delhi,Hybrid,Full-Time,26-09-2022,TRUE,,,25.48,2
+1259,Diya Singh,Female,32,HR,L4,Diploma,Single,Mumbai,On-site,Full-Time,16-08-2023,TRUE,,,16.25,4
+1260,Kabir Pandey,Female,32,Engineering,L2,MBA,Divorced,Delhi,On-site,Full-Time,14-11-2024,TRUE,,,9.52,2
+1261,Sahil Kaur,Female,33,Marketing,L5,MBA,Single,Hyderabad,Hybrid,Full-Time,01-08-2022,TRUE,,,25.4,4
+1262,Nikhil Verma,Male,20,Customer Support,L3,Bachelors,Married,Gurugram,Hybrid,Part-Time,18-06-2023,FALSE,31-05-2024,Voluntary,11.31,4
+1263,Anay Mukherjee,Female,33,Customer Support,L4,Diploma,Single,Mumbai,On-site,Full-Time,27-05-2019,TRUE,,,20.99,3
+1264,Diya Agarwal,Prefer not to say,26,Customer Support,L3,Masters,Married,Pune,Hybrid,Part-Time,02-05-2024,TRUE,,,11.3,4
+1265,Aarav Mukherjee,Female,25,Product,L4,Diploma,Single,Bengaluru,Hybrid,Full-Time,10-09-2022,TRUE,,,20.15,4
+1266,Kabir Mukherjee,Non-binary,32,Customer Support,L5,Bachelors,Married,Pune,Hybrid,Contractor,19-07-2024,TRUE,,,22.56,1
+1267,Kavya Menon,Female,39,Finance,L5,Masters,Single,Delhi,Hybrid,Full-Time,05-12-2019,TRUE,,,25.28,3
+1268,Pari Gupta,Male,32,IT,L3,Masters,Single,Mumbai,On-site,Full-Time,10-02-2025,TRUE,,,14.78,3
+1269,Aman Kapoor,Prefer not to say,36,Legal,Director,Bachelors,Divorced,Bengaluru,Hybrid,Full-Time,25-07-2019,TRUE,,,42.06,3
+1270,Anay Roy,Female,20,Product,L5,Masters,Married,Bengaluru,On-site,Full-Time,23-07-2025,TRUE,,,19.72,2
+1271,Pari Saxena,Male,22,Legal,L4,Bachelors,Single,Pune,Hybrid,Full-Time,19-05-2022,TRUE,,,20.91,2
+1272,Anvi Mehta,Male,42,HR,Manager,Masters,Married,Kolkata,Hybrid,Full-Time,14-03-2021,TRUE,,,35.37,4
+1273,Ishaan Kapoor,Male,41,Product,L3,Bachelors,Single,Chennai,Remote,Contractor,11-10-2020,TRUE,,,9.5,2
+1274,Krish Menon,Female,28,Legal,L3,Masters,Married,Kolkata,On-site,Full-Time,27-08-2019,TRUE,,,13.99,3
+1275,Harsh Tripathi,Female,31,Operations,L2,Masters,Married,Bengaluru,Hybrid,Part-Time,20-12-2023,TRUE,,,8.93,4
+1276,Myra Sharma,Female,39,Product,L2,Bachelors,Single,Mumbai,Hybrid,Contractor,03-06-2023,TRUE,,,5.19,4
+1277,Tanvi Gupta,Male,36,Product,Director,Masters,Married,Mumbai,Hybrid,Full-Time,05-09-2024,TRUE,,,49.8,4
+1278,Riya Chopra,Female,30,Engineering,Manager,PhD,Single,Bengaluru,Hybrid,Full-Time,08-10-2021,TRUE,,,41.83,3
+1279,Myra Kapoor,Male,30,Legal,L1,Diploma,Married,Pune,On-site,Full-Time,12-06-2022,FALSE,07-01-2024,Voluntary,5.59,3
+1280,Neha Kapoor,Female,28,IT,Director,Masters,Single,Pune,On-site,Full-Time,08-03-2025,TRUE,,,51.37,3
+1281,Aarav Agarwal,Female,28,HR,L3,Bachelors,Married,Hyderabad,Remote,Full-Time,15-10-2019,TRUE,,,13.4,4
+1282,Ishaan Das,Male,45,Operations,Manager,Bachelors,Single,Pune,Hybrid,Full-Time,06-07-2021,FALSE,26-08-2024,Involuntary,32.69,3
+1283,Tara Bansal,Male,24,HR,Manager,Diploma,Married,Bengaluru,On-site,Full-Time,12-08-2022,TRUE,,,44.18,3
+1284,Neha Roy,Female,45,Product,L3,Bachelors,Married,Mumbai,Remote,Full-Time,13-05-2024,TRUE,,,13.62,2
+1285,Naira Sharma,Male,33,Marketing,L2,Masters,Married,Hyderabad,Remote,Full-Time,11-01-2025,TRUE,,,6.43,4
+1286,Prisha Das,Prefer not to say,36,Operations,L1,MBA,Married,Remote,Hybrid,Part-Time,10-08-2025,TRUE,,,3.2,5
+1287,Neha Das,Female,30,Engineering,L1,Bachelors,Single,Hyderabad,On-site,Full-Time,17-07-2020,TRUE,,,4.59,5
+1288,Sanya Singh,Male,27,Customer Support,L1,Diploma,Single,Mumbai,Hybrid,Full-Time,19-12-2021,TRUE,,,4.1,3
+1289,Zara Bansal,Male,33,IT,L1,PhD,Single,Bengaluru,Remote,Full-Time,13-11-2024,FALSE,22-07-2025,Voluntary,4.52,2
+1290,Atharv Mukherjee,Female,33,IT,L2,Bachelors,Single,Hyderabad,On-site,Part-Time,23-11-2024,TRUE,,,6.82,2
+1291,Myra Chopra,Male,33,Product,L4,Bachelors,Single,Bengaluru,Hybrid,Part-Time,09-02-2019,TRUE,,,14.34,3
+1292,Anvi Bose,Female,32,Engineering,L3,Bachelors,Married,Delhi,Remote,Full-Time,02-01-2023,TRUE,,,11.33,3
+1293,Advait Reddy,Non-binary,42,HR,L3,Masters,Single,Remote,Remote,Full-Time,16-12-2022,TRUE,,,9.32,4
+1294,Tanvi Reddy,Female,32,IT,L3,MBA,Married,Chennai,Hybrid,Full-Time,15-08-2024,TRUE,,,14.38,3
+1295,Vikram Pandey,Male,39,Finance,L5,Bachelors,Married,Mumbai,On-site,Contractor,18-01-2020,TRUE,,,18.01,4
+1296,Anika Khan,Female,33,Product,L4,Masters,Single,Hyderabad,On-site,Full-Time,13-09-2022,TRUE,,,12.48,3
+1297,Anvi Saxena,Male,33,Legal,L3,Bachelors,Married,Bengaluru,Hybrid,Full-Time,01-07-2021,TRUE,,,15.48,3
+1298,Vikram Agarwal,Female,30,Legal,L3,Masters,Married,Bengaluru,Hybrid,Full-Time,23-05-2019,TRUE,,,12.08,3
+1299,Prisha Reddy,Male,32,HR,L3,Masters,Single,Bengaluru,Hybrid,Full-Time,12-12-2023,TRUE,,,14.19,4
+1300,Prisha Das,Male,28,Customer Support,Manager,Masters,Married,Bengaluru,On-site,Full-Time,09-05-2025,TRUE,,,35.69,4
+1301,Arjun Bose,Female,30,Sales,L2,Masters,Single,Bengaluru,On-site,Full-Time,27-03-2021,TRUE,,,6.47,1
+1302,Rohan Bansal,Female,35,Finance,L4,Masters,Single,Mumbai,Hybrid,Full-Time,02-02-2025,TRUE,,,23.56,1
+1303,Anvi Verma,Female,37,Sales,Director,Bachelors,Single,Bengaluru,Hybrid,Full-Time,29-07-2019,TRUE,,,56.23,5
+1304,Reva Bose,Non-binary,40,Finance,L3,Bachelors,Single,Mumbai,Hybrid,Full-Time,30-10-2022,TRUE,,,11.57,3
+1305,Kavya Roy,Male,44,Marketing,L5,Masters,Married,Gurugram,Remote,Part-Time,28-09-2019,TRUE,,,33.57,3
+1306,Aarav Singh,Female,29,Engineering,Manager,Bachelors,Married,Mumbai,On-site,Full-Time,23-06-2022,TRUE,,,27.88,3
+1307,Zara Roy,Male,33,Product,L2,Bachelors,Single,Chennai,Hybrid,Full-Time,07-06-2021,TRUE,,,6.78,1
+1308,Myra Gupta,Male,42,Sales,L1,Bachelors,Single,Gurugram,Hybrid,Full-Time,25-12-2024,TRUE,,,3.03,4
+1309,Aisha Roy,Female,33,Marketing,L3,Diploma,Divorced,Mumbai,On-site,Full-Time,26-12-2019,FALSE,24-03-2020,Involuntary,9.78,4
+1310,Diya Nair,Female,26,Product,L5,Bachelors,Single,Delhi,Hybrid,Full-Time,27-06-2024,TRUE,,,20.6,2
+1311,Diya Singh,Male,22,Sales,Director,Bachelors,Single,Pune,Remote,Full-Time,22-01-2019,TRUE,,,50.52,3
+1312,Sara Patel,Female,32,Legal,L3,Bachelors,Single,Hyderabad,Hybrid,Part-Time,10-08-2025,TRUE,,,9.12,3
+1313,Shaurya Iyer,Female,27,HR,L2,Diploma,Married,Bengaluru,Hybrid,Full-Time,12-09-2021,TRUE,,,5.81,4
+1314,Aadhya Bansal,Non-binary,37,Operations,L4,Masters,Single,Delhi,On-site,Full-Time,30-09-2021,TRUE,,,19.78,3
+1315,Kiaan Kaur,Female,28,Legal,Manager,MBA,Single,Kolkata,Hybrid,Full-Time,10-05-2024,FALSE,04-03-2025,Voluntary,35.68,1
+1316,Advait Agarwal,Non-binary,20,Operations,L2,Bachelors,Single,Pune,On-site,Full-Time,20-06-2019,TRUE,,,6.57,4
+1317,Naira Menon,Male,20,Engineering,L2,Bachelors,Single,Mumbai,On-site,Part-Time,27-02-2020,TRUE,,,9.12,2
+1318,Meera Mukherjee,Female,28,Engineering,L4,Masters,Single,Delhi,Remote,Full-Time,18-12-2022,TRUE,,,15.29,4
+1319,Nikhil Kaur,Male,32,Sales,L5,Masters,Married,Delhi,On-site,Full-Time,29-09-2025,TRUE,,,32.5,5
+1320,Harsh Saxena,Male,37,Marketing,L5,Bachelors,Widowed,Bengaluru,Hybrid,Full-Time,13-08-2019,TRUE,,,23.48,2
